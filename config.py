@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-API_ID = int(os.getenv("API_ID", 0))
-API_HASH = os.getenv("API_HASH")
-SESSION_STRING = os.getenv("SESSION_STRING")
+API_ID = int(os.getenv("API_ID", 33013808))
+API_HASH = os.getenv("fa3ab424a80a33bf68a33d6f949fc167")
+SESSION_STRING = os.getenv("BAH3wDAAaLJjyMzDB_VjG4bKtNLg6fHPJ5fU84Zj7N6gFXny4DwQditiriRpCwGQ6sTA2Hh2ZIm81ThcZ-24pzXwjpPabl_fi3QQvEUfSBCik2OJLSbVLuOmmWYs7SGR8aBOgXPh9xqw2q5Baa1Jwngj92I0fNGUEiZmoXyiaZmFq-bSjHscZ0YrHW-dhO3EqcJGTWV39KJdZ0ETjsH4oxRqokVu8ZajjHyH4ZgUjY8p3CVwVkqOBdsR8ogvTafbgZM2dIVRxSoj-zGOUhcI79s9Dh6NDqNm4dEobAvxkTheeoU6Om0U60O-aycxCQGA7bSDcWKWboq-ZR-87tIK62gnGT6imQAAAAHUs1LiAA")
 PREFIX = "."
